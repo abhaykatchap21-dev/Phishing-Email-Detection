@@ -54,3 +54,7 @@ You can replace the included small demonstration dataset with a larger, properly
 
 ## Important limitation
 The included 100-row dataset is synthetic and intended only to demonstrate the complete workflow. Its test accuracy is not evidence of real-world phishing detection performance. For a meaningful academic evaluation, use a larger, diverse, labelled dataset, remove duplicates, avoid train/test leakage, and report precision, recall, F1-score and the confusion matrix. A message predicted as safe may still be malicious. Never enter real passwords or confidential emails into this demo.
+
+Project links
+Github Repository: https://github.com/abhaykatchap21-dev/Phishing-Email-Detection
+Live Demo: https://phishing-email-detection-yitqvkj5uxafn6deanzshc.streamlit.app
